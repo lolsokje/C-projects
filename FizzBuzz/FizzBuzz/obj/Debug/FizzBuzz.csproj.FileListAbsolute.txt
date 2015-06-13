@@ -1,0 +1,9 @@
+E:\Documenten\C-projects\FizzBuzz\FizzBuzz\bin\Debug\FizzBuzz.exe.config
+E:\Documenten\C-projects\FizzBuzz\FizzBuzz\bin\Debug\FizzBuzz.exe
+E:\Documenten\C-projects\FizzBuzz\FizzBuzz\bin\Debug\FizzBuzz.pdb
+E:\Documenten\C-projects\FizzBuzz\FizzBuzz\obj\Debug\FizzBuzz.csprojResolveAssemblyReference.cache
+E:\Documenten\C-projects\FizzBuzz\FizzBuzz\obj\Debug\FizzBuzz.Form1.resources
+E:\Documenten\C-projects\FizzBuzz\FizzBuzz\obj\Debug\FizzBuzz.Properties.Resources.resources
+E:\Documenten\C-projects\FizzBuzz\FizzBuzz\obj\Debug\FizzBuzz.csproj.GenerateResource.Cache
+E:\Documenten\C-projects\FizzBuzz\FizzBuzz\obj\Debug\FizzBuzz.exe
+E:\Documenten\C-projects\FizzBuzz\FizzBuzz\obj\Debug\FizzBuzz.pdb
